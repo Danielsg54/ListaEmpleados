@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MenuDespegable</string>
+    <string name="navigation_drawer_open">Abrir Navegación</string>
+    <string name="navigation_drawer_close">Cerrar Navegación</string>
+    <string name="menu_camara">Cámara</string>
+    <string name="menu_gallery">Galería</string>
+    <string name="menu_manage">Configuración</string>
+    <string name="menu_grupo">Grupo</string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_send">Enviar</string>
+    <string name="homeFragment">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
